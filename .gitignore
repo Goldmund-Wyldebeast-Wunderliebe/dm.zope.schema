@@ -1,0 +1,7 @@
+*.pyc
+*egg-info
+*.mo
+*.org
+*Paste*
+build/
+dist/
